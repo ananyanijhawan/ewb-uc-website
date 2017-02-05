@@ -10,19 +10,19 @@ header,
 	text-align: justify;
     
 }
-.view {
-            background: url("http://mdbootstrap.com/images/regular/city/img%20(17).jpg")no-repeat center center fixed;
+/*.view {
+            background: url("../img/herobg.jpg")no-repeat center center fixed;
             -webkit-background-size: cover;
             -moz-background-size: cover;
             -o-background-size: cover;
             background-size: cover;
-        }
+        }*/
 body {
     font-family: 'Montserrat',sans-serif;
 }
 .h3-projects {
     font-weight: 700;
-    color: #E0245E;
+    color: #0756A4;
 }
 
 .h3-about {
@@ -73,7 +73,7 @@ background: #fff;
  ***********************/
 
 header {
-background: #fafafa; /* fallback for old browsers */
+background: #29b6f6; /* fallback for old browsers */
 /*background: -webkit-linear-gradient(to left, #00d2ff , #33fbf0); /* Chrome 10-25, Safari 5.1-6 */*/
 /*background: linear-gradient(to left, #00d2ff , #33fbf0);  W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
         
@@ -97,7 +97,7 @@ background: #fafafa; /* fallback for old browsers */
 
 .description {
     padding-bottom: 3rem;
-    color: #424242;
+    color: #fff;
 }
 
 @media (max-width: 992px) {
