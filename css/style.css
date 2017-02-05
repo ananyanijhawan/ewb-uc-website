@@ -109,7 +109,7 @@ background: linear-gradient(to left, #03A9F4 , #33fbf0);
 }
 /************************
 Work
-**********************
+**********************/
 #work p {
 color:	#6b7c93;
 }
@@ -121,7 +121,7 @@ color:	#6b7c93;
 }
 /************************
 About
-**********************
+**********************/
 .card { 
     background-color: #fff; 
     color: #6b7c93;
@@ -179,3 +179,4 @@ Responsive class
         padding-left: 1rem;
     }     
 }
+
