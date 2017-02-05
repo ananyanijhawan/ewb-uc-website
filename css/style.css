@@ -73,9 +73,9 @@ background: #fff;
  ***********************/
 
 header {
-background: #29b6f6; /* fallback for old browsers */
-/*background: -webkit-linear-gradient(to left, #00d2ff , #33fbf0); /* Chrome 10-25, Safari 5.1-6 */*/
-/*background: linear-gradient(to left, #00d2ff , #33fbf0);  W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+background: #03A9F4; /* fallback for old browsers */
+background: -webkit-linear-gradient(to left, #03A9F4 , #33fbf0);
+background: linear-gradient(to left, #03A9F4 , #33fbf0);  
         
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -109,7 +109,7 @@ background: #29b6f6; /* fallback for old browsers */
 }
 /************************
 Work
-***********************/
+**********************
 #work p {
 color:	#6b7c93;
 }
@@ -121,7 +121,7 @@ color:	#6b7c93;
 }
 /************************
 About
-***********************/
+**********************
 .card { 
     background-color: #fff; 
     color: #6b7c93;
