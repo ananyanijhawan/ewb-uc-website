@@ -74,8 +74,8 @@ background: #fff;
 
 header {
 background: #0756A4; /* fallback for old browsers */
-/*background: -webkit-linear-gradient(to left, #03A9F4 , #33fbf0);
-background: linear-gradient(to left, #03A9F4 , #33fbf0); */ 
+background: -webkit-linear-gradient(to left, #03A9F4 , #33fbf0);
+background: linear-gradient(to left, #03A9F4 , #33fbf0);  
         
     -webkit-background-size: cover;
     -moz-background-size: cover;
