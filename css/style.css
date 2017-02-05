@@ -143,6 +143,13 @@ About
     padding-right: 0.75rem !important;
 }
 /***********************
+Footer
+***********************/
+.social a {
+    font-size: 1.7rem;
+    color: #424242;
+}
+/***********************
 Responsive class
 ***********************/
 @media (min-width: 544px) { 
