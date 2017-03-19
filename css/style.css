@@ -8,7 +8,7 @@ header,
 .view {
     height: 100%;
 	text-align: justify;
-    
+
 }
 /*.view {
             background: url("../img/herobg.jpg")no-repeat center center fixed;
@@ -34,25 +34,25 @@ body {
 }
 
 .container-fluid {
-    padding-left: 0.5rem; 
-    padding-right: 0.5rem;
-    } 
+    /*padding-left: 0.5rem;
+    padding-right: 0.5rem;*/
+    }
 /************************
 Navigation
 ***********************/
-.navbar {        
+.navbar {
 background: #fff;
  /* fallback for old browsers */
 /*background: -webkit-linear-gradient(to left, #00d2ff , #33fbf0); /* Chrome 10-25, Safari 5.1-6 */*/
 /*background: linear-gradient(to left, #00d2ff , #33fbf0);  W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-        
+
         }
 .navbar-brand {
     padding-top: 0.8rem;
     padding-bottom: 0.8rem;
     font-size: 1.2rem;
     font-weight: 400;
-    color: #0756A4 !important;      
+    color: #0756A4 !important;
 }
 .navbar-nav {
     padding-top: 0.8rem;
@@ -75,8 +75,8 @@ background: #fff;
 header {
 background: #0756A4; /* fallback for old browsers */
 background: -webkit-linear-gradient(to left, #03A9F4 , #33fbf0);
-background: linear-gradient(to left, #03A9F4 , #33fbf0);  
-        
+background: linear-gradient(to left, #03A9F4 , #33fbf0);
+
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -85,7 +85,7 @@ background: linear-gradient(to left, #03A9F4 , #33fbf0);
 .lead {
 	color: #8E979A;
     font-family: 'Roboto';
-	
+
 }
 @media (max-width: 768px) {
     .full-bg-img,
@@ -102,10 +102,10 @@ background: linear-gradient(to left, #03A9F4 , #33fbf0);
 
 @media (max-width: 992px) {
     .description {
-	padding-top: 7rem;		
+	padding-top: 7rem;
         text-align: center;
     }
-  
+
 }
 /************************
 Work
@@ -122,8 +122,8 @@ color:	#6b7c93;
 /************************
 About
 **********************/
-.card { 
-    background-color: #fff; 
+.card {
+    background-color: #fff;
     color: #6b7c93;
     box-shadow: 0 20px 20px rgba(0,0,0,.08);
     transition: all .25s cubic-bezier(.02,.01,.47,1);
@@ -144,7 +144,7 @@ About
 }
 
 .education, .work-exp {
-    text-align: left; 
+    text-align: left;
 }
 .first-col {
     padding-right: 0.75rem !important;
@@ -159,17 +159,17 @@ Footer
 /***********************
 Responsive class
 ***********************/
-@media (min-width: 544px) { 
+@media (min-width: 544px) {
     .desc {
         padding:0 2.5rem;
         }
     .edu {
         padding:0 2.5rem;
-    }    
+    }
 }
 
-@media (min-width: 992px) 
- { 
+@media (min-width: 992px)
+ {
     .desc {
         padding-left: 5rem;
         padding-right: 1rem;
@@ -177,6 +177,5 @@ Responsive class
     .edu {
         padding-right: 5rem;
         padding-left: 1rem;
-    }     
+    }
 }
-
